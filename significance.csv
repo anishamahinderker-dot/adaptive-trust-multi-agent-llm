@@ -1,0 +1,8 @@
+Setting,Method A,Method B,Only A right,Only B right,p-value,Significant (p<0.05)?
+4 agents (n=1319),Trust (consensus),Majority vote,25,16,0.211,no
+4 agents (n=1319),Majority vote,Best single (Phi-3-mini),83,52,0.0096,yes
+4 agents (n=1319),Trust (consensus),Best single (Phi-3-mini),81,41,0.0004,yes
++1 bad agent (n=1319),Trust (consensus),Majority vote,30,18,0.1114,no
++1 bad agent (n=1319),Trust (verified),Majority vote,22,10,0.0501,no
+4 agents (n=200),Debate,Trust (consensus),6,7,1.0,no
+4 agents (n=200),Debate,Majority vote,7,9,0.8036,no

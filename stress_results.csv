@@ -1,0 +1,6 @@
+Unreliable agents (k),Majority %,Trust (ours) %,Trust (oracle) %,Ours-only vs Maj-only right,p (ours vs maj),Oracle-only vs Maj-only right,p (oracle vs maj)
+0,85.7,86.4,86.3,25 vs 16,0.211,21 vs 14,0.3105
+1,85.4,86.3,86.3,30 vs 18,0.1114,22 vs 10,0.0501
+2,84.3,85.7,86.0,36 vs 18,0.0198,33 vs 11,0.0013
+3,83.8,85.4,85.4,34 vs 13,0.0031,35 vs 13,0.0021
+4,81.7,85.2,85.5,55 vs 9,0.0,55 vs 5,0.0

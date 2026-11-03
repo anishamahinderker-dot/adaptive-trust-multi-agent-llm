@@ -1,0 +1,2 @@
+Method,Accuracy,Avg tokens per question
+"Debate (2 rounds, majority vote)",87.5,5427

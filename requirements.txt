@@ -1,0 +1,4 @@
+ollama>=0.6.3
+datasets>=5.1.0
+pandas
+matplotlib

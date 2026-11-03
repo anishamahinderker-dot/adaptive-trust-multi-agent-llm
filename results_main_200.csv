@@ -1,0 +1,8 @@
+Method,Accuracy,Avg tokens per question
+Single: qwen2.5:3b,80.0,395
+Single: llama3.2:3b,80.5,325
+Single: gemma2:2b,64.5,286
+Single: phi3:mini,83.5,351
+Majority vote (no trust),88.5,1357
+Trust-weighted (consensus feedback) - OURS,88.0,1357
+Trust-weighted (oracle feedback) - upper bound,88.0,1357

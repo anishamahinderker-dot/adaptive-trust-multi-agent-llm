@@ -1,0 +1,24 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper below."
+title: "Adaptive Trust-Based Multi-Agent Large Language Model Framework for Reliable Collaborative Reasoning"
+authors:
+  - family-names: Kulkarni
+    given-names: Mrugakshi
+    affiliation: "MKSSS's Cummins College of Engineering for Women, Pune, India"
+  - family-names: Patil
+    given-names: Dipti D.
+    affiliation: "MKSSS's Cummins College of Engineering for Women, Pune, India"
+  - family-names: Kundalwal
+    given-names: Gayatri
+    affiliation: "MKSSS's Cummins College of Engineering for Women, Pune, India"
+  - family-names: Mahinderker
+    given-names: Anisha
+    affiliation: "MKSSS's Cummins College of Engineering for Women, Pune, India"
+license: MIT
+date-released: 2026-11-03
+keywords:
+  - multi-agent systems
+  - large language models
+  - adaptive trust
+  - weighted consensus
+  - GSM8K
